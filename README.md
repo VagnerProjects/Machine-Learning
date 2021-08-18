@@ -2,16 +2,6 @@
 
 Neste repositórios estarão códigos de Machine Learning com Python
 
-Os dois projetos atuais foram desenvolvidos no Google Colab
-
-
-#Gatos_Learning 
-
-Neste projeto desenvolvido na linguagem Python, eu criei uma situação onde a máquina deveria aprender sobre dois de meus gatos
-
-Há algumas perguntas onde os binários 0 e 1 definem se tal gato possui a característica da pergunta
-
-
 #BioLearning
 
 Utilizando as bibliotecas scikit-learn e BioPython, eu criei um simples modelo de Machine Learning que aprende duas sequencias de DNA distintas
